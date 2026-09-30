@@ -1,0 +1,6 @@
+# future code ignores
+**/node_modules/
+**/src-tauri/target/
+**/python-sidecar/venv/
+**/__pycache__/
+.DS_Store
